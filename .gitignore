@@ -1,0 +1,26 @@
+/vendor/
+composer.lock
+phpunit.xml
+.phpunit.result.cache
+.phpunit.cache/
+coverage/
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build artifacts
+build/
+.php-cs-fixer.cache
+.php_cs.cache
